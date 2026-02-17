@@ -1,6 +1,5 @@
-# Laptop-Request-Catalog-Item
-ServiceNow Service Catalog project for SmartInternz internship
 # Laptop Request Catalog Item – ServiceNow Project
+ServiceNow Service Catalog project for SmartInternz internship
 
 ##  Project Overview
 This project implements a dynamic Service Catalog item in ServiceNow to automate the laptop request process.
